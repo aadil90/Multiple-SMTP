@@ -1,0 +1,16 @@
+{
+ "Files": {
+ "Emails": {
+ "FileName": "Emails.txt",
+ "Location": "PasteHereLocation"
+ },
+ "Body": {
+ "FileName": "Message.txt",
+ "Location": "PasteHereLocation"
+ },
+ "Servers": {
+ "FileName": "Servers.json",
+ "Location": "PasteHereLocation"
+ }
+ }
+}

@@ -1,0 +1,11 @@
+{
+	"Server": {
+		"HOST": "smtp.gmail.com",
+		"Port": "587",
+		"IP": "",
+		"Domain": "",
+		"SubDomain": "",
+		"Email": "smtptestpython0+Server@gmail.com",
+		"Password": "PythonTesting"
+	}
+}
